@@ -125,6 +125,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000407@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000165@JSBC
 #EXTINF:-1 group-title="卫视",三沙卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000410@JSBC
+#EXTINF:-1 group-title="卫视",山西卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000094@JSBC
 #EXTINF:-1 group-title="卫视",内蒙古卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000166@JSBC
 #EXTINF:-1 group-title="卫视",厦门卫视
@@ -151,6 +153,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000226@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
 #EXTINF:-1 group-title="江苏",江苏综艺
 http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 group-title="江苏",江苏国际
+http://112.86.202.37:8112/JSBC_iptv/C10000032@JSBC
 #EXTINF:-1 group-title="江苏",南京新闻综合
 http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV8RSPA%2FM5vDDCxATVPzoe1XEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏",南京影视
@@ -235,6 +239,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
 #EXTINF:-1 group-title="CGTN",CGTN
 http://112.86.202.37:8112/JSBC_iptv/C10000021@JSBC
+#EXTINF:-1 group-title="其他",财富天下
+http://112.86.202.37:8112/JSBC_iptv/C10000099@JSBC
 #EXTINF:-1 group-title="其他",东方财经
 http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
 #EXTINF:-1 group-title="其他",中国天气
