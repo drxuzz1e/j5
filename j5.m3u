@@ -235,9 +235,9 @@ http://112.86.202.37:8112/JSBC_iptv/C10000098@JSBC
 http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV5ugu22Ytkz6srRcitxWRnFy3SBZSWLfpNi3MsqhXagJ&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="教育",CETV4
 http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
-#EXTINF:-1 group-title="CGTN",俄语
+#EXTINF:-1 group-title="CGTN",CGTN俄语
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
-#EXTINF:-1 group-title="CGTN",CGTN
+#EXTINF:-1 group-title="CGTN",CGTN英语
 http://112.86.202.37:8112/JSBC_iptv/C10000021@JSBC
 #EXTINF:-1 group-title="其他",财富天下
 http://112.86.202.37:8112/JSBC_iptv/C10000099@JSBC
