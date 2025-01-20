@@ -39,6 +39,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000204@JSBC
 #EXTINF:-1 group-title="央视",高尔夫∙网球
 http://112.86.202.37:8112/JSBC_iptv/C10000205@JSBC
+#EXTINF:-1 group-title="央视",台球
+http://112.86.202.37:8112/JSBC_iptv/C10000217@JSBC
 #EXTINF:-1 group-title="央视",世界地理
 http://112.86.202.37:8112/JSBC_iptv/C10000206@JSBC
 #EXTINF:-1 group-title="央视",兵器科技
@@ -49,12 +51,16 @@ http://112.86.202.37:8112/JSBC_iptv/C10000208@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000211@JSBC
 #EXTINF:-1 group-title="央视",女性时尚
 http://112.86.202.37:8112/JSBC_iptv/C10000212@JSBC
+#EXTINF:-1 group-title="央视",卫生健康
+http://112.86.202.37:8112/JSBC_iptv/C10000416@JSBC
 #EXTINF:-1 group-title="央视",央视文化精品
 http://112.86.202.37:8112/JSBC_iptv/C10000209@JSBC
 #EXTINF:-1 group-title="央视",怀旧剧场
 http://112.86.202.37:8112/JSBC_iptv/C10000210@JSBC
 #EXTINF:-1 group-title="央视",电视指南
 http://112.86.202.37:8112/JSBC_iptv/C10000203@JSBC
+#EXTINF:-1 group-title="其他",好享购物
+http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
 #EXTINF:-1 group-title="卫视",湖南卫视
@@ -94,7 +100,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000169@JSBC
 #EXTINF:-1 group-title="卫视",吉林卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000170@JSBC
 #EXTINF:-1 group-title="卫视",青海卫视
-http://157.0.143.37:8112/JSBC_iptv/C10000408@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000408@JSBC
 #EXTINF:-1 group-title="卫视",贵州卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000171@JSBC
 #EXTINF:-1 group-title="卫视",河北卫视
@@ -114,9 +120,13 @@ http://112.86.202.37:8112/JSBC_iptv/C10000184@JSBC
 #EXTINF:-1 group-title="卫视",宁夏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000163@JSBC
 #EXTINF:-1 group-title="卫视",甘肃卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000164@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000407@JSBC
 #EXTINF:-1 group-title="卫视",新疆卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000165@JSBC
+#EXTINF:-1 group-title="卫视",三沙卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000410@JSBC
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000166@JSBC
 #EXTINF:-1 group-title="卫视",厦门卫视
 http://122.96.52.98:8006/JS_CUCC/G_XIAMEN.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV7LwgMEL4RGNHEzvC8r1RbBknaAaU1ZneM33O4nxNsRy&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视",安多卫视
@@ -153,6 +163,38 @@ http://122.96.52.98:8006/JS_CUCC/G_NJJK.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV3zB
 http://122.96.52.98:8006/JS_CUCC/G_NJSB.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV5hjuBymb9kqnwH%2BjoISqRbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏",盐城1
 http://122.97.211.133:8112/JSBC_iptv/C10000234@JSBC
+#EXTINF:-1 group-title="江苏",盐城2
+http://122.97.211.133:8112/JSBC_iptv/C10000414@JSBC
+#EXTINF:-1 group-title="江苏",盐城3
+http://122.97.211.133:8112/JSBC_iptv/C10000415@JSBC
+#EXTINF:-1 group-title="江苏",淮安综合
+http://122.97.211.133:8112/JSBC_iptv/C10000144@JSBC
+#EXTINF:-1 group-title="江苏",淮安公共
+http://122.97.211.133:8112/JSBC_iptv/C10000149@JSBC
+#EXTINF:-1 group-title="江苏",淮安影视娱乐
+http://122.97.211.133:8112/JSBC_iptv/C10000150@JSBC
+#EXTINF:-1 group-title="江苏",南通新闻综合
+http://122.97.211.133:8112/JSBC_iptv/C10000411@JSBC
+#EXTINF:-1 group-title="江苏",南通-2
+http://122.97.211.133:8112/JSBC_iptv/C10000412@JSBC
+#EXTINF:-1 group-title="江苏",南通公共·崇川
+http://122.97.211.133:8112/JSBC_iptv/C10000413@JSBC
+#EXTINF:-1 group-title="江苏",徐州-1
+http://122.97.211.133:8112/JSBC_iptv/C10000145@JSBC
+#EXTINF:-1 group-title="江苏",徐州-2
+http://122.97.211.133:8112/JSBC_iptv/C10000146@JSBC
+#EXTINF:-1 group-title="江苏",徐州-3
+http://122.97.211.133:8112/JSBC_iptv/C10000147@JSBC
+#EXTINF:-1 group-title="江苏",徐州-4
+http://122.97.211.133:8112/JSBC_iptv/C10000148@JSBC
+#EXTINF:-1 group-title="江苏",泰州-1
+http://122.97.211.133:8112/JSBC_iptv/C10000215@JSBC
+#EXTINF:-1 group-title="江苏",泰州-2
+http://122.97.211.133:8112/JSBC_iptv/C10000400@JSBC
+#EXTINF:-1 group-title="江苏",泰州-3
+http://122.97.211.133:8112/JSBC_iptv/C10000401@JSBC
+#EXTINF:-1 group-title="江苏",沭阳综合
+http://122.97.211.133:8112/JSBC_iptv/C10000418@JSBC
 #EXTINF:-1 group-title="少儿",KAKU少儿
 http://122.96.52.98:8006/JS_CUCC/G_KAKU.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV%2BjSmygd5J05CTlsCPT2Qd7El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="少儿",嘉佳卡通
@@ -161,6 +203,8 @@ http://122.96.52.98:8006/JS_CUCC/G_JIAJIA.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV8
 http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV%2BtavAt%2Bkwmaf8d%2FsUioWvfyvpPW8hxBd0Rtq%2Bwa619R&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="少儿",优漫卡通
 http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 group-title="少儿",金鹰卡通
+http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
 #EXTINF:-1 group-title="少儿",南京少儿
 http://122.96.52.98:8006/JS_CUCC/G_NJSE.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNVygFNI7cApTsn2ORmrpNAw3El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="地方",金鹰纪实
@@ -177,11 +221,21 @@ http://157.0.143.37:8112/JSBC_iptv/C10000237@JSBC
 http://157.0.143.37:8112/JSBC_iptv/C10000236@JSBC
 #EXTINF:-1 group-title="地方",梨园频道
 http://157.0.143.37:8112/JSBC_iptv/C10000235@JSBC
+#EXTINF:-1 group-title="教育",CETV-早期教育
+http://112.86.202.37:8112/JSBC_iptv/C10000417@JSBC 
 #EXTINF:-1 group-title="教育",CETV-1
-http://112.86.202.37:8112/JSBC_iptv/C10000173@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000173@JSBC
 #EXTINF:-1 group-title="教育",CETV-2
 http://112.86.202.37:8112/JSBC_iptv/C10000098@JSBC
 #EXTINF:-1 group-title="教育",CETV-3
 http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV5ugu22Ytkz6srRcitxWRnFy3SBZSWLfpNi3MsqhXagJ&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="教育",CETV-4
-http://112.86.202.37:8112/JSBC_iptv/C10000101@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
+#EXTINF:-1 group-title="CGTN",俄语
+http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
+#EXTINF:-1 group-title="CGTN",CGTN
+http://112.86.202.37:8112/JSBC_iptv/C10000021@JSBC
+#EXTINF:-1 group-title="其他",东方财经
+http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 group-title="其他",中国天气
+http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
