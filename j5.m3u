@@ -39,7 +39,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000204@JSBC
 #EXTINF:-1 group-title="央视",高尔夫∙网球
 http://112.86.202.37:8112/JSBC_iptv/C10000205@JSBC
-#EXTINF:-1 group-title="央视",台球
+#EXTINF:-1 group-title="央视",央视台球
 http://112.86.202.37:8112/JSBC_iptv/C10000217@JSBC
 #EXTINF:-1 group-title="央视",世界地理
 http://112.86.202.37:8112/JSBC_iptv/C10000206@JSBC
@@ -175,17 +175,17 @@ http://122.97.211.133:8112/JSBC_iptv/C10000149@JSBC
 http://122.97.211.133:8112/JSBC_iptv/C10000150@JSBC
 #EXTINF:-1 group-title="江苏",南通新闻综合
 http://122.97.211.133:8112/JSBC_iptv/C10000411@JSBC
-#EXTINF:-1 group-title="江苏",南通-2
+#EXTINF:-1 group-title="江苏",南通2
 http://122.97.211.133:8112/JSBC_iptv/C10000412@JSBC
 #EXTINF:-1 group-title="江苏",南通公共·崇川
 http://122.97.211.133:8112/JSBC_iptv/C10000413@JSBC
-#EXTINF:-1 group-title="江苏",徐州-1
+#EXTINF:-1 group-title="江苏",徐州·1
 http://122.97.211.133:8112/JSBC_iptv/C10000145@JSBC
-#EXTINF:-1 group-title="江苏",徐州-2
+#EXTINF:-1 group-title="江苏",徐州·2
 http://122.97.211.133:8112/JSBC_iptv/C10000146@JSBC
-#EXTINF:-1 group-title="江苏",徐州-3
+#EXTINF:-1 group-title="江苏",徐州·3
 http://122.97.211.133:8112/JSBC_iptv/C10000147@JSBC
-#EXTINF:-1 group-title="江苏",徐州-4
+#EXTINF:-1 group-title="江苏",徐州·4
 http://122.97.211.133:8112/JSBC_iptv/C10000148@JSBC
 #EXTINF:-1 group-title="江苏",泰州-1
 http://122.97.211.133:8112/JSBC_iptv/C10000215@JSBC
@@ -221,15 +221,15 @@ http://157.0.143.37:8112/JSBC_iptv/C10000237@JSBC
 http://157.0.143.37:8112/JSBC_iptv/C10000236@JSBC
 #EXTINF:-1 group-title="地方",梨园频道
 http://157.0.143.37:8112/JSBC_iptv/C10000235@JSBC
-#EXTINF:-1 group-title="教育",CETV-早期教育
+#EXTINF:-1 group-title="教育",CETV早期教育
 http://112.86.202.37:8112/JSBC_iptv/C10000417@JSBC 
-#EXTINF:-1 group-title="教育",CETV-1
+#EXTINF:-1 group-title="教育",CETV1
 http://157.0.143.37:8112/JSBC_iptv/C10000173@JSBC
-#EXTINF:-1 group-title="教育",CETV-2
+#EXTINF:-1 group-title="教育",CETV2
 http://112.86.202.37:8112/JSBC_iptv/C10000098@JSBC
-#EXTINF:-1 group-title="教育",CETV-3
+#EXTINF:-1 group-title="教育",CETV3
 http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=WJEw%2FLGOpXAbDrp8qfrNV5ugu22Ytkz6srRcitxWRnFy3SBZSWLfpNi3MsqhXagJ&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育",CETV-4
+#EXTINF:-1 group-title="教育",CETV4
 http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 #EXTINF:-1 group-title="CGTN",俄语
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
