@@ -36,29 +36,29 @@ http://122.97.211.133:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 group-title="央视",CCTV17
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
 #EXTINF:-1 group-title="央视",风云足球
-http://112.86.202.37:8112/JSBC_iptv/C10000204@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000204@JSBC
 #EXTINF:-1 group-title="央视",高尔夫∙网球
-http://112.86.202.37:8112/JSBC_iptv/C10000205@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000205@JSBC
 #EXTINF:-1 group-title="央视",央视台球
-http://112.86.202.37:8112/JSBC_iptv/C10000217@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000217@JSBC
 #EXTINF:-1 group-title="央视",世界地理
-http://112.86.202.37:8112/JSBC_iptv/C10000206@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000206@JSBC
 #EXTINF:-1 group-title="央视",兵器科技
-http://112.86.202.37:8112/JSBC_iptv/C10000207@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000207@JSBC
 #EXTINF:-1 group-title="央视",风云剧场
-http://112.86.202.37:8112/JSBC_iptv/C10000208@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000208@JSBC
 #EXTINF:-1 group-title="央视",风云音乐
-http://112.86.202.37:8112/JSBC_iptv/C10000211@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000211@JSBC
 #EXTINF:-1 group-title="央视",女性时尚
-http://112.86.202.37:8112/JSBC_iptv/C10000212@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000212@JSBC
 #EXTINF:-1 group-title="央视",卫生健康
-http://112.86.202.37:8112/JSBC_iptv/C10000416@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000416@JSBC
 #EXTINF:-1 group-title="央视",央视文化精品
-http://112.86.202.37:8112/JSBC_iptv/C10000209@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000209@JSBC
 #EXTINF:-1 group-title="央视",怀旧剧场
-http://112.86.202.37:8112/JSBC_iptv/C10000210@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000210@JSBC
 #EXTINF:-1 group-title="央视",电视指南
-http://112.86.202.37:8112/JSBC_iptv/C10000203@JSBC
+#http://112.86.202.37:8112/JSBC_iptv/C10000203@JSBC
 #EXTINF:-1 group-title="其他",好享购物
 http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
 #EXTINF:-1 group-title="卫视",江苏卫视
