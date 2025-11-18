@@ -1,5 +1,5 @@
 #EXTM3U catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
-#EXTM3U url-tvg="https://epg.iill.top/epg"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="央视",CCTV1
 http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 group-title="央视",CCTV2
